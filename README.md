@@ -1,2 +1,2 @@
-# -js-campominato
+# js-campominato
 Javascript Campo Minato
